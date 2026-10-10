@@ -1,6 +1,6 @@
-# SALVAGE
+# SCRAP INSPECTOR
 
-**[⬇ ჩამოტვირთე უახლესი ვერსია (Windows)](https://github.com/chubabria/Salvage-Play/releases/latest/download/Salvage.zip)**  ·  [ყველა ვერსია](https://github.com/chubabria/Salvage-Play/releases)
+**[⬇ ჩამოტვირთე უახლესი ვერსია (Windows)](https://github.com/chubabria/Salvage-Play/releases/latest/download/ScrapInspector.zip)**  ·  [ყველა ვერსია](https://github.com/chubabria/Salvage-Play/releases)
 
 > ტესტ-ბილდი. თამაში აქტიურ დამუშავებაშია. ყოველი ახალი ვერსია ამავე ლინკზე ჩნდება.
 
@@ -9,6 +9,15 @@
 ## 🆕 რა გაუმჯობესდა
 
 უახლესი ზემოთაა.
+
+### 2026-10-10 · build 10b
+- ⛈ დღე აღარ გიჭედავს: ქარბუქი უფრო გვიან მოდის, პირველი დღეები უფრო მშვიდია
+- 🌙 ღამით ქარბუქი ცოცხლად გადის — ტყუილად ლოდინი აღარ არის
+- 🔬 ხელსაწყოს მუშაობა ნივთზე ჩანს
+- 🧑 მოხეტიალეების სახეები მეტს ამბობს; მდიდარ გამყიდველებს ახალი სახე აქვთ
+- 💬 მაგიდაზე ვაჭრობის ახალი მოქმედება დაემატა
+- 🛠 ღამით შეგახსენებს, თუ კორპუსი შეკეთებას ითხოვს
+- 🔜 იგეგმება: ახალი სწავლება, სკრეპერებისა და ღამის დაცვის განახლება
 
 ### 2026-10-10 · build 10a
 - 🎚 სირთულის სამი დონე ახალი თამაშის დაწყებისას
@@ -91,9 +100,9 @@
 
 ## 💻 როგორ ვითამაშო
 
-1. დააჭირე **[Salvage.zip](https://github.com/chubabria/Salvage-Play/releases/latest/download/Salvage.zip)**-ს
+1. დააჭირე **[ScrapInspector.zip](https://github.com/chubabria/Salvage-Play/releases/latest/download/ScrapInspector.zip)**-ს
 2. zip-ზე მარჯვენა ღილაკი → **Extract All**
-3. გახსენი **Salvage.exe**
+3. გახსენი **ScrapInspector.exe**
 
 > ⚠️ თუ Windows გაჩვენებს „Windows protected your PC", დააჭირე **More info → Run anyway**.
 > ბილდი ჯერ ციფრულად ხელმოწერილი არ არის, ამიტომ ჩნდება ეს შეტყობინება.
@@ -108,4 +117,4 @@
 
 ---
 
-*SALVAGE: playable test builds for Windows. Download the latest `Salvage.zip` from [Releases](https://github.com/chubabria/Salvage-Play/releases/latest). Not code-signed yet; if SmartScreen warns, choose "More info → Run anyway".*
+*SCRAP INSPECTOR: playable test builds for Windows. Download the latest `ScrapInspector.zip` from [Releases](https://github.com/chubabria/Salvage-Play/releases/latest). Not code-signed yet; if SmartScreen warns, choose "More info → Run anyway".*
